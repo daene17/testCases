@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestCases>
+  <TestCase>
+    <name>1</name>
+    <ticket>7</ticket>
+    <summary>This is the first test for the app</summary>
+    <prerequisites>None</prerequisites>
+    <steps>1. Type
+2. Some
+3. Stuff
+4. Dog</steps>
+    <behavior>I should be able to succesfully add a item to the test case list</behavior>
+    <status>Pass</status>
+  </TestCase>
+  <TestCase>
+    <name>3</name>
+    <ticket>777</ticket>
+    <summary>This is another test case which I am adding, it is going to be very goot</summary>
+    <prerequisites>There are none</prerequisites>
+    <steps>1. Check to see that everything is working
+2. Upload to github
+3. Use it at work
+4. Profit</steps>
+    <behavior>Hopefully this works so I can test it out at work</behavior>
+    <status>Pass</status>
+  </TestCase>
+</TestCases>
